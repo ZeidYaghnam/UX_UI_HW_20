@@ -1,0 +1,43 @@
+.nav-link{
+    color: black;
+    font-family: Helvetica, sans-serif;
+}
+
+.active{
+    background-color: #8281C6;
+}
+
+.active .nav-link{
+    color: white;
+}
+
+.imgContainer{
+    display: flex;
+    height: 500px;
+}
+
+.intro{
+    padding: 50px;
+}
+
+.solutions{
+    padding-bottom: 50px;
+}
+
+.research1{
+    padding: 50px;
+}
+
+.flow{
+    display: flex;
+    align-items: center;
+}
+
+.iterations{
+    margin-bottom: 50px;
+}
+
+.gifs{
+    background-color: #8281C6;
+    padding: 50px;
+}
